@@ -1,0 +1,5 @@
+export { MissingCredentialError } from "./auth-error.ts"
+export type { AuthProvider } from "./auth-provider.ts"
+export type { ApiKeyCredential } from "./credential.ts"
+export type { CredentialStore } from "./credential-store.ts"
+export { EnvironmentApiKeyAuthProvider } from "./environment-api-key-auth-provider.ts"
