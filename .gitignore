@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.omo/
+.codegraph/
+.DS_Store
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
